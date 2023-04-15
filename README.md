@@ -1,4 +1,41 @@
+
 Hi, I'm Manos, a senior software engineer with over 7 years of experience in the field. I have a passion for developing innovative solutions and tackling challenging problems, which is why I enjoy working as a full-stack developer. <br><br>Throughout my career, I have honed my skills in a variety of programming languages and frameworks, including React, Node, Angular, .Net. I pride myself on being able to adapt to new technologies quickly and efficiently, and I enjoy exploring new tools and techniques to improve my workflow.<br><br>What sets me apart as a developer is my ability to think creatively and strategically about complex problems. I enjoy collaborating with colleagues to come up with innovative solutions that meet both technical requirements and business goals.<br><br>In my free time, I enjoy tinkering with side projects and staying up-to-date with the latest developments in the tech industry. I believe that continuous learning and self-improvement are essential for staying competitive in this field.<br>
+
+## :briefcase: Work Experience
+
+**[Goodpath](https://www.linkedin.com/company/goodpath/mycompany/)** / 2019 - Present
+
+Healthcare tech startup.
+*   Working in a fast-paced startup environment.    
+*   Developing a new web application using React.js.    
+*   Developing a mobile app using React Native.    
+*   Building cloud functions using Node.js.
+
+**[ZuluTrade](https://www.linkedin.com/company/zulutrade/)** / 2018 - 2019
+
+Information technology and services. Forex copy trading platform.
+*   Sustaining, maintaining, and enhancing existing custom ASP .Net web applications.    
+*   Rebuilding existing ASP .Net application into Angular web application.
+
+**[Insurancemarket](https://www.linkedin.com/company/money-market-s-a-/)** / 2017 - 2018
+
+Software house company, leading services aggregator.
+*   Sustaining, maintaining, and enhancing existing custom PHP MVC web application.    
+*   Handling an interrupt-driven workload, providing solutions on issues emerging from a fair-traffic live product.    
+*   Maintaining and enhancing a SugarCRM installation.    
+*   Developing new and sustaining existing PHP integration services.    
+*   Sustaining, maintaining, and enhancing an existing node express web application.    
+*   Working with No-SQL databases(MongoDB, Redis).
+
+**[NOON Informatics SA](https://www.linkedin.com/company/noon-informatics-s-a-/)** / 2016 - 2017
+
+Software house company, developing mostly banking and retail software.
+-   Developing new or debugging and maintaining existing SAP Business One add-on solutions.    
+-   Building external applications connected to B1 via SAP B1 Di API.
+-   Developed a new employee's timesheet management web application, using Angular JS and .net ASMX web service.    
+-   Building test applications and experimenting with Angular 2 framework.    
+-   Developing and debugging ASP.NET web apps.
+
 
 
 ## 🌐 Socials:
